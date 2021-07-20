@@ -1,4 +1,4 @@
-# read by JRT
+# read this code along by JRT
 
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
